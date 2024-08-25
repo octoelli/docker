@@ -26,7 +26,7 @@ O WSL é um subsistema Linux que roda dentro do Windows, permitindo que o Docker
 
 Recomendamos fortemente que utilize o WSL 2 caso possível. Isto vai garantir uma performance e estabilidade melhor.
 
-O ideal é habilitar o WSL 2 antes de instalar o Docker, para isto basta acessar este link e realizar a instalação: https://balta.io/blog/wsl
+O ideal é habilitar o WSL 2 antes de instalar o Docker, para isto basta acessar este link e realizar a instalação:
 
 Desta forma, ao realizar a instalação do Docker, na primeira tela irá aparecer a opção abaixo, que deve ficar marcada.
 
